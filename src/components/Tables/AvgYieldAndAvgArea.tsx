@@ -1,5 +1,5 @@
 import { Table } from "@mantine/core";
-import cropData from "../Assats/IndiaAgroDataset.json";
+import cropData from "../Assets/IndiaAgroDataset.json";
 import { CropDataType } from "../utils/types";
 import { getAverageYieldAndArea } from "../utils/utils";
 
