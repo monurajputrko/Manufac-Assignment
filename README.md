@@ -12,6 +12,10 @@ Average Yield and Area by Crop – Calculates the average yield and cultivation 
 - Data Aggregation :- Calculates maximum, minimum, and average values.
 - Mantine UI :- Uses Mantine for a clean, responsive table layout.
 
+## Functionality
+- Table 1 :- Maximum and Minimum Production by Year – Displays the crop with the highest and lowest production each year.
+- Table 2 :- Average Yield and Area by Crop – Shows the average yield and area from 1950 to 2020.
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
@@ -47,9 +51,6 @@ Start the server
   yarn start
 ```
 
-## Functionality
-- Table 1 :- Maximum and Minimum Production by Year – Displays the crop with the highest and lowest production each year.
-- Table 2 :- Average Yield and Area by Crop – Shows the average yield and area from 1950 to 2020.
 
 
 ## Screenshots
