@@ -1,0 +1,51 @@
+/* src/App.css */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+  }
+  
+  .title {
+    font-size: 2em;
+    color: #1e90ff;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  .subtitle {
+    font-size: 1.5em;
+    color: #333;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-weight: 500;
+  }
+  
+  .table-container {
+    width: 80%;
+    margin-bottom: 40px;
+  }
+  
+  .mantine-table th {
+    background-color: #1e90ff;
+    color: #fff;
+    font-weight: 600;
+    padding: 10px;
+  }
+  
+  .mantine-table tr:nth-child(even) {
+    background-color: #f0f8ff;
+  }
+  
+  .mantine-table tr:hover {
+    background-color: #e6f7ff;
+  }
+  
+  .mantine-table td {
+    padding: 10px;
+    text-align: center;
+  }
+  
