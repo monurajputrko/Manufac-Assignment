@@ -30,7 +30,7 @@ Average Yield and Area by Crop – Calculates the average yield and cultivation 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  https://github.com/monurajputrko/Manufac-Assignment.git
 ```
 
 Go to the project directory
